@@ -1,0 +1,54 @@
+.tabpanel-box {
+    padding: 16px;
+    background-color: #fff;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,0.2);
+    /* You might need to adjust these styles to match the exact look and feel of your design. */
+  }
+
+.Tab-Content{
+  /* Content */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 16px 32px 32px;
+gap: 20px;
+
+width: 640px;
+height: 252px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+z-index: 2;
+
+}
+
+.Tab-Form{
+  /* Form */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 576px;
+height: 204px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+}
+

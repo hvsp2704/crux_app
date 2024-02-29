@@ -1,0 +1,8 @@
+# Django #
+*.log
+*.pot
+*.pyc
+__pycache__
+backend/curx/db.sqlite3
+backend/curx/media
+node_modules

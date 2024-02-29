@@ -1,0 +1,58 @@
+
+{
+        "name": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "linkedin URL": "",
+        "github URL": "",
+        "college": {
+            "name": "",
+            "branch": "",
+            "degree": "",
+            "cgpa": "",
+            "start": "",
+            "end": "",
+            "relevancy":""
+        },
+        "work_experience":[
+            {
+            "role": "",
+            "organization": "",
+            "short_description": "",
+            "tech_stack": ["",""],
+            "time_duration": {
+                "start": "",
+                "end": "",
+                "duration_months": ""
+            },
+            "relevancy": ""
+            }
+        ],
+        "skills": {
+            "list":[],
+            "relevancy":""
+        },
+        "certifications": [{
+            "certification_name": "",
+            "provider":"",
+            "grade":"",
+            "relevancy":""
+        }
+        ],
+        "projects": [
+             {
+            "project_title": "",
+            "short_description": "",
+            "tech_stack": ["",""],
+            "time_duration": {
+                "start": "",
+                "end": "",
+                "duration_months": ""
+            },
+            "relevancy": ""
+            }
+        ],
+        "extracurricular_activities": ["","",""]
+}
+    
